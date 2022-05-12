@@ -5,4 +5,8 @@ PyScript é uma biblioteca javascript lançada recentemente (2022) que permite a
 
 O código acima utiliza a biblioteca datetime da linguagem de programação python para calcular o intervalo de dias entre o dia atual e a data do eclipse lunar total em 15 de Maio de 2022.
 
+Imagem:
+
+![Screenshot](projetoPyScript.png)
+
 🚀 Obrigada por visitar este repositório!
